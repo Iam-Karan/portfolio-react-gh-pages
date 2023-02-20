@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-gh-pages/static/css/main.50fe7032.css",
+    "main.js": "/portfolio-react-gh-pages/static/js/main.019a95d6.js",
+    "static/media/KARANPATEL-RESUME.pdf": "/portfolio-react-gh-pages/static/media/KARANPATEL-RESUME.10d0fcc6f3dff8d25f2b.pdf",
+    "static/media/buzzplaymockup.png": "/portfolio-react-gh-pages/static/media/buzzplaymockup.694afe0f48438c9f8aef.png",
+    "static/media/snowRemover.png": "/portfolio-react-gh-pages/static/media/snowRemover.551953265787ab560da8.png",
+    "static/media/floramockup.png": "/portfolio-react-gh-pages/static/media/floramockup.9054b587c70ef2fa400d.png",
+    "static/media/shopcomockup.png": "/portfolio-react-gh-pages/static/media/shopcomockup.3a0dc49a76fd02fbdcd5.png",
+    "static/media/Android_Studio.png": "/portfolio-react-gh-pages/static/media/Android_Studio.90500a376fc814a3b0d7.png",
+    "static/media/React.png": "/portfolio-react-gh-pages/static/media/React.f153eb9f28437192c6a0.png",
+    "static/media/Xcode.webp": "/portfolio-react-gh-pages/static/media/Xcode.05bbe867cd9943a4b7cd.webp",
+    "static/media/Visual_Studio_Code.png": "/portfolio-react-gh-pages/static/media/Visual_Studio_Code.e66400756ccbdbfc0b31.png",
+    "static/media/homeBackgroundKaran.jpg": "/portfolio-react-gh-pages/static/media/homeBackgroundKaran.39dc3b6f348f53d1f59a.jpg",
+    "static/media/MongoDB.png": "/portfolio-react-gh-pages/static/media/MongoDB.41e505b098e3087319b8.png",
+    "static/media/css.png": "/portfolio-react-gh-pages/static/media/css.19c8605d6b2861f5fbe0.png",
+    "static/media/IntelliJ.png": "/portfolio-react-gh-pages/static/media/IntelliJ.4f3a5fdb570280df9bfd.png",
+    "static/media/Kotlin.png": "/portfolio-react-gh-pages/static/media/Kotlin.9327ed0d24bb59871c34.png",
+    "static/media/SQLite.png": "/portfolio-react-gh-pages/static/media/SQLite.5864a661cb541182fdf3.png",
+    "static/media/html.webp": "/portfolio-react-gh-pages/static/media/html.9ba5683e5bf3666e5666.webp",
+    "static/media/MySQL.png": "/portfolio-react-gh-pages/static/media/MySQL.6e42b2a035b28f240021.png",
+    "static/media/android.png": "/portfolio-react-gh-pages/static/media/android.3096351909b82beab254.png",
+    "static/media/mariadb.png": "/portfolio-react-gh-pages/static/media/mariadb.1d7a68aa23f6e811cb95.png",
+    "static/media/javascript.png": "/portfolio-react-gh-pages/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/Figma.png": "/portfolio-react-gh-pages/static/media/Figma.46400ab8543f71a3650b.png",
+    "static/media/Firebase.png": "/portfolio-react-gh-pages/static/media/Firebase.c4f13648b56c5a89cb54.png",
+    "static/media/klogo.png": "/portfolio-react-gh-pages/static/media/klogo.27cd18a7a27f965f1e04.png",
+    "static/media/swift.png": "/portfolio-react-gh-pages/static/media/swift.efa547d95655c90f5181.png",
+    "static/media/ios.png": "/portfolio-react-gh-pages/static/media/ios.5c4d34e57f9da748b884.png",
+    "static/media/flutter1.png": "/portfolio-react-gh-pages/static/media/flutter1.c01689b8b9b67dcf0ef1.png",
+    "static/media/Material_Design.png": "/portfolio-react-gh-pages/static/media/Material_Design.f56805633a24e01b8c42.png",
+    "static/media/nextJs.png": "/portfolio-react-gh-pages/static/media/nextJs.6db19b31cc0a2f63cff4.png",
+    "static/media/java.png": "/portfolio-react-gh-pages/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/portfolio-react-gh-pages/index.html",
+    "main.50fe7032.css.map": "/portfolio-react-gh-pages/static/css/main.50fe7032.css.map",
+    "main.019a95d6.js.map": "/portfolio-react-gh-pages/static/js/main.019a95d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50fe7032.css",
+    "static/js/main.019a95d6.js"
+  ]
+}

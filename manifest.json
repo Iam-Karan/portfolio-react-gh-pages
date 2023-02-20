@@ -1,0 +1,25 @@
+{
+  "short_name": "Karan Patel",
+  "name": "Karan Patel - Portfolio",
+  "icons": [
+    {
+      "src": "K-Tabbbar.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "K-Tabbbar.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "K-Tabbbar.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
